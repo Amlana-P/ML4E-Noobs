@@ -1445,13 +1445,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #13a456;
 }
 
-#footer .copyright {
+
+/*#footer .copyright {
+  color: darkgrey;
   text-align: center;
   padding-top: 30px;
+  opacity: 0.5;
 }
-
+*/
 #footer .credits {
-  text-align: center;
-  font-size: 13px;
+  cursor: none;
+  text-align: right;
+  font-size: 0.3vw;
   color: #ddd;
 }
